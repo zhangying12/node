@@ -1,0 +1,5 @@
+1.安装mogodb 安装 sever
+初始化 node  npm init -y
+新建index.js是服务端的入口文件
+在node端的packge里面建立入口文件 nodemon index.js script为自定义脚本
+全局安装 nodemon
